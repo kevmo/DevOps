@@ -1,5 +1,10 @@
 Rapid and reliable software development and deployment processes.
 
+That app ain't gonna run itself.
+================================
+
+
+
 Machine: You need an operating system
 ======================================
 
