@@ -1,7 +1,7 @@
 Rapid and reliable software development and deployment processes for everyone: developers, sysadmins, and designers.
 
 That app ain't gonna run itself. Luckily, you have teammates.
-==========================================================================
+------------------------------------------------------------
 
 What happens when you're developing an web app locally and you run `python app.py` or `node index.js`? If conditions are right, the app spins up and you can examine your output via localhost on a port of your choosing. But how does that app get to YourCompanysWebsite.com? 
 
@@ -15,12 +15,12 @@ Machine: You need an operating system
 Linux boxes and Vagrant
 
 Provisioning: That operating system needs software to run your program
-======================================================================
+----------------------------------------------------------------------
 
 Shell Scripts, Ansible
 
 Deployment: Your app needs to live in a publicly accessible machine
-===================================================================
+----------------------------------------------------------------------
 
 the cloud
 
