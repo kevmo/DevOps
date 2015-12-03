@@ -18,17 +18,23 @@ Linux boxes and Vagrant
 Provisioning: That operating system needs software to run your program
 ----------------------------------------------------------------------
 
-Shell Scripts, Ansible
+Shell Scripts
 
 Deployment: Your app needs to live in a publicly accessible machine
 ----------------------------------------------------------------------
+ssh
 
 the cloud
 
 nginx, Apache
 
 Do It Again and Again and Again
-==============================
+========================================================
+
+Automated Configuration
+-----------------------
+
+Ansible
 
 Continuous Integration
 ---------------------
