@@ -1,11 +1,11 @@
-Rapid and reliable software development and deployment processes for everyone: developers, sysadmins, and designers.
+Rapid and reliable software development and deployment processes for everyone: developers, sysadmins, and designers. But this is DevOps for the Developer.
 
 That app ain't gonna run itself.
 --------------------------------
 
-What happens when you're developing an web app locally and you run `python app.py` or `node index.js`? If conditions are right, the app spins up and you can examine your output via localhost on a port of your choosing. But how does that app get to YourCompanysWebsite.com? 
+What happens when you're developing an web app locally and you run `python app.py` or `node index.js`? If conditions are right, the app spins up and you can examine your output via localhost on a port of your choosing. But what are those conditions? How does the same app get to YourCompanysWebsite.com? 
 
-DevOps is a movement to take these deployment concerns into consideration. When everyone thinks about this, the team writes better software faster. It is the front-end, back-end, and sysadmins [working together to share troubleshooting information across  their silos](http://www.drdobbs.com/architecture-and-design/what-exactly-is-devops/240009147).
+DevOps is a movement to take these deployment concerns into consideration during all phases of software development. When individual developers code with an eye on this, the entire team writes better software faster. It is the front-end, back-end, and sysadmins [working together to share troubleshooting information across their silos](http://www.drdobbs.com/architecture-and-design/what-exactly-is-devops/240009147).
 
 Basics
 ==========
@@ -34,6 +34,18 @@ Continuous Integration
 ---------------------
 
 Travis
+
+Get Smart
+=========
+
+Microservices vs Monoliths
+--------------------------
+
+
+
+
+
+
 
 
 
