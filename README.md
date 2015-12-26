@@ -30,6 +30,7 @@ nginx, Apache
 
 Do It Again and Again and Again
 ========================================================
+* [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration)
 
 Automated Configuration
 -----------------------
@@ -47,7 +48,9 @@ Get Smart
 Microservices vs Monoliths
 --------------------------
 
-
+Useful Links
+===========
+* [List of Build Automation Software](https://en.wikipedia.org/wiki/List_of_build_automation_software#Build_script_generation_tools)
 
 
 
