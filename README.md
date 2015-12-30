@@ -1,4 +1,4 @@
-Rapid and reliable software development and deployment processes for everyone: developers, sysadmins, and designers. But this is DevOps for the Developer.
+Rapid and reliable software development and deployment processes for everyone: developers, sysadmins, and designers. But this is DevOps for the Web Developer.
 
 That app ain't gonna run itself.
 --------------------------------
