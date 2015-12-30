@@ -12,13 +12,24 @@ Basics
 
 Machine: You need an operating system
 -------------------------------------
+If you're reading this, you probably understand what application software is.  It's that Express app that you've spun up.  But application software can't run itself in a vacuum. It needs a system in which to run. An operating system is basically the app that runs your app. 
 
-Linux boxes and Vagrant
+Windows, Mac OS, iOS, Android, Blackberry are all examples of operating systems. And then there's Linux.
+
+_Linux_
+Linux is the operating system that runs on more hardware platforms than any other operating system and a triumph of the open source software movement. It is [Unix-like](https://en.wikipedia.org/wiki/Unix-like) and mostly [POSIX](https://en.wikipedia.org/wiki/POSIX)-compliant.
+
+To become a master of your own destiny, [you must become comfortable with the bash command line Linux ships with](https://github.com/jlevy/the-art-of-command-line).  
+
 
 Provisioning: That operating system needs software to run your program
 ----------------------------------------------------------------------
 
 Shell Scripts
+
+Vagrant
+
+EC2
 
 Deployment: Your app needs to live in a publicly accessible machine
 ----------------------------------------------------------------------
