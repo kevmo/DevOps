@@ -46,6 +46,8 @@ Do It Again and Again and Again
 Automated Configuration
 -----------------------
 
+Remembering to run a bunch of shell scripts... in a specific order... what's the worst that could happen?  Maybe you should keep a checklist?  What if you could have both?
+
 Ansible
 
 Continuous Integration
@@ -62,6 +64,11 @@ Microservices vs Monoliths
 Useful Links
 ===========
 * [List of Build Automation Software](https://en.wikipedia.org/wiki/List_of_build_automation_software#Build_script_generation_tools)
+
+
+Philosophy
+=======
+* [Configuration Management](https://en.wikipedia.org/wiki/Configuration_management)
 
 
 
