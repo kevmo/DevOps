@@ -25,7 +25,7 @@ To become a master of your own destiny, [you must become comfortable with the ba
 Provisioning: That operating system needs software to run your program
 ----------------------------------------------------------------------
 
-Shell Scripts
+Your personal computer
 
 Vagrant
 
